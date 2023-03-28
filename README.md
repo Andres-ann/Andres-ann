@@ -2,6 +2,8 @@
 
 ¡Hola! Soy Andrés, un estudiante de desarrollo de software apasionado por la tecnología. <br><br>Me encanta crear soluciones innovadoras y eficientes que ayuden a las personas a resolver sus problemas.<br><br>Tengo experiencia y estoy especializandome en desarrollo web. Además, también tengo habilidades tanto en FrontEnd como en Backend, y metodologías ágiles lo que me permite abordar proyectos de manera integral y ofrecer soluciones completas y satisfactorias.<br><br>Me encanta trabajar en equipo y colaborar con personas de diferentes disciplinas para lograr objetivos comunes. Si buscas un desarrollador comprometido, creativo y con habilidades excepcionales, ¡no dudes en contactarme!
 
+---
+
 Hello! I'm Andrés, a software development student passionate about technology. <br><br>I love creating innovative and efficient solutions that help people solve their problems.<br><br>I have experience and I am specializing in web development. In addition, I also have skills in both FrontEnd and Backend, and agile methodologies, which allows me to approach projects in a comprehensive manner and offer complete and satisfactory solutions.<br><br>
 
 I love working as a team and collaborating with people from different disciplines to achieve common goals. If you are looking for a committed, creative developer with exceptional skills, don't hesitate to contact me!
@@ -25,3 +27,4 @@ I love working as a team and collaborating with people from different discipline
 [![](https://visitcount.itsvg.in/api?id=Andres-ann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
