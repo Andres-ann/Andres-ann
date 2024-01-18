@@ -1,12 +1,9 @@
 # 💫 About Me:
 
-¡Hola! Soy Andrés, un estudiante de desarrollo de software apasionado por la tecnología. <br><br>Me encanta crear soluciones innovadoras y eficientes que ayuden a las personas a resolver sus problemas.<br><br>Tengo experiencia y estoy especializandome en desarrollo web. Además, también tengo habilidades tanto en FrontEnd como en Backend, y metodologías ágiles lo que me permite abordar proyectos de manera integral y ofrecer soluciones completas y satisfactorias.<br><br>Me encanta trabajar en equipo y colaborar con personas de diferentes disciplinas para lograr objetivos comunes. Si buscas un desarrollador comprometido, creativo y con habilidades excepcionales, ¡no dudes en contactarme!
+¡Hola! Soy Andrés, técnico superior en desarrollo de software apasionado por la tecnología y el aprendizaje constante. <br><br>Me encanta crear soluciones innovadoras y eficientes que ayuden a las personas a resolver sus problemas.<br><br>Tengo experiencia y estoy especializandome en desarrollo web. Además, también tengo habilidades tanto en Frontend como en Backend, y metodologías ágiles lo que me permite abordar proyectos de manera integral y ofrecer soluciones completas y satisfactorias.<br><br>Me encanta trabajar en equipo y colaborar con personas de diferentes disciplinas para lograr objetivos comunes. Si buscas un desarrollador comprometido, creativo y con habilidades excepcionales, ¡no dudes en contactarme!
 
 ---
-
-Hello! I'm Andrés, a software development student passionate about technology. <br><br>I love creating innovative and efficient solutions that help people solve their problems.<br><br>I have experience and I am specializing in web development. In addition, I also have skills in both FrontEnd and Backend, and agile methodologies, which allows me to approach projects in a comprehensive manner and offer complete and satisfactory solutions.<br><br>
-
-I love working as a team and collaborating with people from different disciplines to achieve common goals. If you are looking for a committed, creative developer with exceptional skills, don't hesitate to contact me!
+Hello! I am Andrés, a senior software development technician passionate about technology and constant learning. <br><br>I love creating innovative and efficient solutions that help people solve their problems.<br><br>I have experience and am specializing in web development. In addition, I also have skills in both Frontend and Backend, and agile methodologies, which allows me to approach projects comprehensively and offer complete and satisfactory solutions.<br><br>I love working as a team and collaborating with people from different disciplines to achieve common objectives. If you are looking for a committed, creative developer with exceptional skills, do not hesitate to contact me!
 
 ## 🌐 Socials:
 
