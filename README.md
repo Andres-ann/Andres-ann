@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hola 👋, Yo soy Andrés!</h1>
+<h1 align="center">Hola 👋, Soy Andrés!</h1>
 <h3 align="center">Soy Técnico Superior en Desarrollo de Software apasionado por la tecnología y el aprendizaje constante. Me encanta crear soluciones innovadoras y eficientes que ayuden a las personas a resolver sus problemas. Tengo experiencia y estoy especializado en desarrollo web. Además, también tengo habilidades tanto en Frontend como en Backend, y metodologías ágiles, lo que me permite abordar los proyectos de forma integral y ofrecer soluciones completas y satisfactorias. Me encanta trabajar en equipo y colaborar con personas de diferentes disciplinas para lograr objetivos comunes. Si buscas un desarrollador comprometido, creativo y con habilidades excepcionales, ¡no dudes en contactarme!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andres-ann&label=Profile%20views&color=0e75b6&style=flat" alt="Andres-ann" /> </p>
 
